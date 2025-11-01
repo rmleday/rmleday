@@ -1,13 +1,10 @@
-# 🧠 Royce LeDay  
+![Personal Logo](./FAVICONSGIT.png)
+# Royce LeDay  
 **Versatile Designer/Developer | Ethical UX/UI | Web & Branding Specialist**  
 *Design with intention. Code with clarity. Build for everyone.*
 
-![Banner Image](https://your-banner-image-url.com)  
-![Personal Logo](./FAVICONSGIT.png)
-
 ---
-
-## 👋 About Me  
+ 👋 About Me  
 I'm a designer/developer hybrid with a passion for ethical, accessible, and user-centered digital experiences. Currently pursuing a B.S. in Graphic Information Technology at Arizona State University, I specialize in translating high-fidelity mockups into responsive, semantic code.
 
 I thrive in solo builds where creative control meets technical precision, and I’m driven by workflows that respect users and elevate design intent. Outside of work, you’ll find me immersed in comics, action figures, video games, and cheering for my favorite teams.
@@ -39,10 +36,10 @@ Searchable field using the Marvel API that loads clickable image results. Clicki
 
 ### 🔹 Image Comics Site/App Concept   
 This is a fun project using a cdn to make a pdf reader to read comics.  
-![Toolkit Thumbnail](https://your-image-url.com)
+![Toolkit Thumbnail](imageCom.png)
 
 ---
 
 ## 📬 Contact & Links  
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 Email: [your.email@example.com](mailto:rolls7royce@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/royce-leday-a823b8269/)
