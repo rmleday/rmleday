@@ -3,7 +3,7 @@
 *Design with intention. Code with clarity. Build for everyone.*
 
 ![Banner Image](https://your-banner-image-url.com)  
-![Personal Logo](https://your-logo-url.com)
+![Personal Logo](./FAVICONSGIT.png)
 
 ---
 
