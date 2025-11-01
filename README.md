@@ -31,11 +31,11 @@ I thrive in solo builds where creative control meets technical precision, and I�
 
 ### 🔹 Velvet Hour  
 A moody, scrollable recipe card interface with left-aligned text and modern color palette.  
-![Velvet Hour Thumbnail](https://your-image-url.com)
+![Velvet Hour Thumbnail](velvetHour.png)
 
-### 🔹 Mix It Up  
+### 🔹 Image Comics Site/App Conncept  
 Responsive layout matching hi-fi mockups with dynamic content integration.  
-![Mix It Up Thumbnail](https://your-image-url.com)
+![Mix It Up Thumbnail](Screenshot_(29).png)
 
 ### 🔹 Empathy Mapping Toolkit  
 Synthesizes user interviews into actionable insights for UX research.  
