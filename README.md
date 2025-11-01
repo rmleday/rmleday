@@ -33,12 +33,12 @@ I thrive in solo builds where creative control meets technical precision, and I�
 A moody, scrollable recipe card interface with left-aligned text and modern color palette.  
 ![Velvet Hour Thumbnail](velvetHour.png)
 
-### 🔹 Image Comics Site/App Conncept  
-Responsive layout matching hi-fi mockups with dynamic content integration.  
-![Mix It Up Thumbnail](Screenshot_(29).png)
+### 🔹 Marvel API Implementation  
+Searchable field using the Marvel API that loads clickable image results. Clicking on image launches a modal to give additional information. 
+![Mix It Up Thumbnail](apiSearch.png)
 
-### 🔹 Empathy Mapping Toolkit  
-Synthesizes user interviews into actionable insights for UX research.  
+### 🔹 Image Comics Site/App Concept   
+This is a fun project using a cdn to make a pdf reader to read comics.  
 ![Toolkit Thumbnail](https://your-image-url.com)
 
 ---
