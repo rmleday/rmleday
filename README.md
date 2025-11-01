@@ -32,14 +32,14 @@ A moody, scrollable recipe card interface with left-aligned text and modern colo
 
 ### 🔹 Marvel API Implementation  
 Searchable field using the Marvel API that loads clickable image results. Clicking on image launches a modal to give additional information. 
-![Mix It Up Thumbnail](apiSearch.png)
+![Marvel thumbnail](apiSearch.png)
 
 ### 🔹 Image Comics Site/App Concept   
 This is a fun project using a cdn to make a pdf reader to read comics.  
-![Toolkit Thumbnail](imageCom.png)
+![Image Thumbnail](imageCom.png)
 
 ---
 
 ## 📬 Contact & Links  
-- 📧 Email: [your.email@example.com](mailto:rolls7royce@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/royce-leday-a823b8269/)
+- 📧 Email: [Contact Me](mailto:rolls7royce@gmail.com)  
+- 💼 LinkedIn: [Royce LeDay](https://linkedin.com/in/royce-leday-a823b8269/)
